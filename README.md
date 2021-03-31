@@ -9,7 +9,7 @@ O banco de dados utilizado no evento foi o SQLite3 que é um banco SQL,porém eu
 pelo fato do meu smartphone não da suporte a instalação deste banco,dessa forma utilizei o PostgreSQL que é um banco de dados
 que gosto bastante e venho estudando ele.
 
-## Projeto funcionando (desenvolvir usando meu smartphone,logo as imagens são do meu prorpio smartphone).
+## Projeto funcionando.
 
 ### Home
 ![Home do projeto](https://github.com/DKSecurity99/proffy-nlw2/blob/master/proffy-home.jpg)
